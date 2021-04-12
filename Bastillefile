@@ -1,0 +1,5 @@
+PKG openvpn
+#CP usr /
+#SYSRC openvpn_procentric_enable="YES"
+#SERVICE openvpn_procentric start
+#RDR udp 1194 1194
